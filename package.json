@@ -1,0 +1,22 @@
+{
+  "name": "koch_apper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puudle/sorrowless_sea.git"
+  },
+  "author": "Patrick Durasiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Puudle/sorrowless_sea/issues"
+  },
+  "homepage": "https://github.com/Puudle/sorrowless_sea#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
